@@ -1,3 +1,3 @@
 # Important Instructions
 
-## This is a demoe
+## This is a demo
